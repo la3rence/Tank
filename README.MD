@@ -17,3 +17,7 @@
 
         - AWT: 抽象工具包, 早期用于编写 GUI, 基于本地方法 native, 速度快, 有平台兼容问题, 它把不同 OS 的差异化方法舍弃, 只留交集方法
         - Swing: 解决 AWT 存在的问题而新开发的 GUI 包, 改良, 扩展, 用 java 开发, 运行速度慢, 但跨 OS
+
+## 效果
+
+![screenshot.jpg](https://i.loli.net/2021/09/20/RpPUQaY2nyerHIs.png)
