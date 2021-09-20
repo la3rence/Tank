@@ -20,4 +20,4 @@
 
 ## 效果
 
-![screenshot.jpg](https://i.loli.net/2021/09/20/RpPUQaY2nyerHIs.png)
+![screenshot.png](https://i.loli.net/2021/09/20/1KYDtzHnkGBL3RF.png)
